@@ -1,0 +1,9 @@
+[package]
+name = "disperse"
+
+[dependencies]
+Sui = { git = "https://github.com/MystenLabs/sui.git", subdir = "crates/sui-framework/packages/sui-framework", rev = "framework/testnet" }
+mycoin = {local = "../test-tokens/mycoin"}
+
+[addresses]
+disperse = "0x0"
