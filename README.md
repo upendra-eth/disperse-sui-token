@@ -1,6 +1,3 @@
-Certainly! Here is the README content in raw form:
-
-```markdown
 # Disperse SUI Token Smart Contract
 
 ## Overview
@@ -44,13 +41,3 @@ This function splits a coin into multiple coins, each with a specified balance, 
 1. Deploy the smart contract on the Move blockchain.
 2. Call the `disperseToken` function with the appropriate parameters to disperse tokens.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Contribution
-
-Contributions are welcome! If you find any issues or want to improve the code, feel free to open a pull request.
-```
-
-Feel free to customize it further according to your specific project details and preferences.
